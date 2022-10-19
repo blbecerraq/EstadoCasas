@@ -1,0 +1,15 @@
+C:\Users\SoporteTI\source\repos\EstadoCeldas\CeldasInfraestructure\bin\Debug\net5.0\CeldasInfraestructure.deps.json
+C:\Users\SoporteTI\source\repos\EstadoCeldas\CeldasInfraestructure\bin\Debug\net5.0\CeldasInfraestructure.dll
+C:\Users\SoporteTI\source\repos\EstadoCeldas\CeldasInfraestructure\bin\Debug\net5.0\ref\CeldasInfraestructure.dll
+C:\Users\SoporteTI\source\repos\EstadoCeldas\CeldasInfraestructure\bin\Debug\net5.0\CeldasInfraestructure.pdb
+C:\Users\SoporteTI\source\repos\EstadoCeldas\CeldasInfraestructure\bin\Debug\net5.0\CeldasCore.dll
+C:\Users\SoporteTI\source\repos\EstadoCeldas\CeldasInfraestructure\bin\Debug\net5.0\CeldasCore.pdb
+C:\Users\SoporteTI\source\repos\EstadoCeldas\CeldasInfraestructure\obj\Debug\net5.0\CeldasInfraestructure.csproj.AssemblyReference.cache
+C:\Users\SoporteTI\source\repos\EstadoCeldas\CeldasInfraestructure\obj\Debug\net5.0\CeldasInfraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoporteTI\source\repos\EstadoCeldas\CeldasInfraestructure\obj\Debug\net5.0\CeldasInfraestructure.AssemblyInfoInputs.cache
+C:\Users\SoporteTI\source\repos\EstadoCeldas\CeldasInfraestructure\obj\Debug\net5.0\CeldasInfraestructure.AssemblyInfo.cs
+C:\Users\SoporteTI\source\repos\EstadoCeldas\CeldasInfraestructure\obj\Debug\net5.0\CeldasInfraestructure.csproj.CoreCompileInputs.cache
+C:\Users\SoporteTI\source\repos\EstadoCeldas\CeldasInfraestructure\obj\Debug\net5.0\CeldasInfraestructure.csproj.CopyComplete
+C:\Users\SoporteTI\source\repos\EstadoCeldas\CeldasInfraestructure\obj\Debug\net5.0\CeldasInfraestructure.dll
+C:\Users\SoporteTI\source\repos\EstadoCeldas\CeldasInfraestructure\obj\Debug\net5.0\ref\CeldasInfraestructure.dll
+C:\Users\SoporteTI\source\repos\EstadoCeldas\CeldasInfraestructure\obj\Debug\net5.0\CeldasInfraestructure.pdb

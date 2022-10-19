@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CeldasInfraestructure/1.0.0": {
+        "dependencies": {
+          "CeldasCore": "1.0.0"
+        },
+        "runtime": {
+          "CeldasInfraestructure.dll": {}
+        }
+      },
+      "CeldasCore/1.0.0": {
+        "runtime": {
+          "CeldasCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CeldasInfraestructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CeldasCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

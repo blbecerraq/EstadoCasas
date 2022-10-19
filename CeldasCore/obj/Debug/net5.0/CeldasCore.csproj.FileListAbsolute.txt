@@ -1,0 +1,12 @@
+C:\Users\SoporteTI\source\repos\EstadoCeldas\CeldasCore\bin\Debug\net5.0\CeldasCore.deps.json
+C:\Users\SoporteTI\source\repos\EstadoCeldas\CeldasCore\bin\Debug\net5.0\CeldasCore.dll
+C:\Users\SoporteTI\source\repos\EstadoCeldas\CeldasCore\bin\Debug\net5.0\ref\CeldasCore.dll
+C:\Users\SoporteTI\source\repos\EstadoCeldas\CeldasCore\bin\Debug\net5.0\CeldasCore.pdb
+C:\Users\SoporteTI\source\repos\EstadoCeldas\CeldasCore\obj\Debug\net5.0\CeldasCore.csproj.AssemblyReference.cache
+C:\Users\SoporteTI\source\repos\EstadoCeldas\CeldasCore\obj\Debug\net5.0\CeldasCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoporteTI\source\repos\EstadoCeldas\CeldasCore\obj\Debug\net5.0\CeldasCore.AssemblyInfoInputs.cache
+C:\Users\SoporteTI\source\repos\EstadoCeldas\CeldasCore\obj\Debug\net5.0\CeldasCore.AssemblyInfo.cs
+C:\Users\SoporteTI\source\repos\EstadoCeldas\CeldasCore\obj\Debug\net5.0\CeldasCore.csproj.CoreCompileInputs.cache
+C:\Users\SoporteTI\source\repos\EstadoCeldas\CeldasCore\obj\Debug\net5.0\CeldasCore.dll
+C:\Users\SoporteTI\source\repos\EstadoCeldas\CeldasCore\obj\Debug\net5.0\ref\CeldasCore.dll
+C:\Users\SoporteTI\source\repos\EstadoCeldas\CeldasCore\obj\Debug\net5.0\CeldasCore.pdb

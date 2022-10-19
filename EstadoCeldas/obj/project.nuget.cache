@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "e+JKKoK55ZhbbSjHeIT/qX/NN3qpzJmcmUNtzukahTLpgeeveaXmVPB9Mx/vzqvQURbhpiQ99oMUsMBoo7B0ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SoporteTI\\source\\repos\\EstadoCeldas\\EstadoCeldas\\EstadoCeldas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SoporteTI\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\SoporteTI\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\SoporteTI\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\SoporteTI\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\SoporteTI\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\SoporteTI\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\SoporteTI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
